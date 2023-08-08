@@ -31,3 +31,9 @@ The objective is to create a data-driven solution using a combination of 3D Conv
 
 # Referrences:
 https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445565
+
+https://towardsdatascience.com/automated-lip-reading-simplified-c01789469dd8
+
+https://paperswithcode.com/task/lipreading
+
+https://arxiv.org/ftp/arxiv/papers/1802/1802.05521.pdf
