@@ -1,5 +1,5 @@
 # Silent-Lips-Reader-using-CNN
-# Description:
+# Project-Description:
 Lip reading, the ability to understand spoken language by observing lip movements, is essential for individuals with hearing impairments and in scenarios where audio information is compromised. Automatic lip reading systems, powered by deep learning techniques, have shown promising results in converting lip movements into text. This project proposes an advanced lip reading model that combines 3D Convolutional Neural Networks (CNNs) and Gated Recurrent Units (GRUs) to improve the accuracy and robustness of lip reading.
 
 The project's approach involves leveraging the spatiotemporal characteristics of lip motion using 3D CNNs. This allows the model to analyze sequential frames of lip movements and simultaneously capture spatial and temporal features. The GRU component is employed to learn long-term dependencies and capture temporal dynamics in the lip movement sequences.
