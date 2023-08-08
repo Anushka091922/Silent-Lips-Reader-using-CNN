@@ -21,9 +21,13 @@ The objective is to create a data-driven solution using a combination of 3D Conv
 
 6)Web development
 
-7) Advanced AI Models
+7)Advanced AI Models
 
-8) IBM Watson Studio
+8)IBM Watson Studio
+
+
+
+
 
 # Referrences:
 https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445565
